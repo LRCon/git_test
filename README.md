@@ -1,0 +1,1 @@
+"This is LRCon's first git project! ...not really :)
